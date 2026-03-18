@@ -10,7 +10,7 @@ In Ubuntu:
   sudo apt install build-essentials
 
 Compilation:
-  mkdir build
-  cd build
-  cmake ..
-  make
+  mkdir build  
+  cd build  
+  cmake ..  
+  make  
