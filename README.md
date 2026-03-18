@@ -6,8 +6,8 @@ Dependences:
   make  
   g++  
 In Ubuntu:  
-  sudo apt update  
-  sudo apt install build-essentials  
+    sudo apt update  
+    sudo apt install build-essentials  
 
 Compilation:  
   mkdir build  
